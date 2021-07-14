@@ -16,7 +16,7 @@ const Links = () => {
 
                     </div>
 
-                   <div id='instagram' onClick={() => window.open("https://instagram.com/mandeepstylist", "_blank")} className='col text-white rounded d-flex justify-content-around align-items-center m-1 p-1 pt-2 pb-2' >
+                   <div id='instagram' onClick={() => window.open("https://instagram.com/mandeepstylist")} className='col text-white rounded d-flex justify-content-around align-items-center m-1 p-1 pt-2 pb-2' >
 
                    <span className='fab fa-instagram' style={{fontSize: '40px'}}></span>
                        <p className='pt-3' style={{fontSize: '25px'}}>Instagram</p>
@@ -26,7 +26,7 @@ const Links = () => {
                 </div>
 
                 <div className='row justify-content-between p-2'>
-                   <div id='yelp' onClick={() => window.open("https://www.yelp.com/biz/mandeep-stylist-san-francisco-3", "_blank")} className='col text-white rounded  d-flex justify-content-around align-items-center m-1 p-1 '>
+                   <div id='yelp' onClick={() => window.open("https://www.yelp.com/biz/mandeep-stylist-san-francisco-3")} className='col text-white rounded  d-flex justify-content-around align-items-center m-1 p-1 '>
 
                        <span className='fab fa-yelp' style={{fontSize: '40px'}}></span>
                        <p className='pt-3' style={{fontSize: '25px'}}>Yelp</p>
@@ -34,7 +34,7 @@ const Links = () => {
 
                     </div>
 
-                   <div id='google' onClick={() => window.open("https://goo.gl/maps/cf89sNBwJBPyhYQG9", "_blank")} className='col text-white rounded d-flex justify-content-around align-items-center m-1 p-1 pt-2 pb-2' >
+                   <div id='google' onClick={() => window.open("https://goo.gl/maps/cf89sNBwJBPyhYQG9")} className='col text-white rounded d-flex justify-content-around align-items-center m-1 p-1 pt-2 pb-2' >
 
                    <span className='fas fa-map-marker-alt' style={{fontSize: '40px'}}></span>
                        <p className='pt-3' style={{fontSize: '25px'}}>Google</p>
@@ -44,7 +44,7 @@ const Links = () => {
                 </div>
 
                 <div className='row justify-content-between p-2'>
-                   <div id='venmo' onClick={() => window.open("https://venmo.com/mandeepshoker", "_blank")} className='col text-white rounded  d-flex justify-content-around align-items-center m-1 p-1 '>
+                   <div id='venmo' onClick={() => window.open("https://venmo.com/mandeepshoker")} className='col text-white rounded  d-flex justify-content-around align-items-center m-1 p-1 '>
 
                        <span className='fas fa-dollar-sign' style={{fontSize: '40px'}}></span>
                        <p className='pt-3' style={{fontSize: '25px'}}>Venmo</p>
@@ -52,7 +52,7 @@ const Links = () => {
 
                     </div>
 
-                   <div id='email' onClick={() => window.open("mailto: mandeepstylist@gmail.com", "_blank")} className='col text-white rounded d-flex justify-content-around align-items-center m-1 p-1 pt-2 pb-2' >
+                   <div id='email' onClick={() => window.open("mailto: mandeepstylist@gmail.com")} className='col text-white rounded d-flex justify-content-around align-items-center m-1 p-1 pt-2 pb-2' >
 
                    <span className='far fa-envelope' style={{fontSize: '40px'}}></span>
                        <p className='pt-3' style={{fontSize: '25px'}}>Email</p>

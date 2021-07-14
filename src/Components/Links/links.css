@@ -1,0 +1,35 @@
+#website {
+    background: #FF8183;
+    }
+
+#instagram {
+    display: inline-block;
+    /* width: 250px;
+    height: 250px; */
+    text-align: center;
+  /*   border-radius: 40px; */
+    color: #fff;
+    /* font-size: 220px;
+    line-height: 250px; */
+    vertical-align: middle;
+    background: #d6249f;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    box-shadow: 0px 3px 10px rgba(0,0,0,.25);
+  }
+
+#yelp {
+    background: #F43939;
+}
+
+#google {
+    background: linear-gradient(-120deg, #4285f4, #34a853, #fbbc05, #ea4335);
+  }
+
+#venmo {
+    background: #008CFF;
+}
+
+#email {
+    /* background: #8ABFC5; */
+    background: #70CAD3;
+}
